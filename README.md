@@ -1,0 +1,13 @@
+# Firebase-signup-and-signout
+
+We had to make a connection with our app and firebase
+
+we had to know that what we are doing ...
+
+From which screen and where we are going.....
+
+now make the firebase connection...
+
+on another screen we had to make firebase sign in and in other we had to make firebase sign out
+
+after this just make sure that your layout is perfect if all is good your app will run smoothly....
